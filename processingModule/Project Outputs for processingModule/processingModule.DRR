@@ -1,0 +1,30 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: processingModule.PcbDoc   10/30/2023  2:17:32 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : processingModule-RoundHoles.TXT
+ASCII SlotHoles File : processingModule-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      13mil (0.33mm)                                            Round             56        PTH        0.00inch (0.00mm)
+T2      14mil (0.356mm)                                           Round             9         PTH        0.00inch (0.00mm)
+T3      28mil (0.711mm)                                           Round             6         PTH        0.00inch (0.00mm)
+T4      35mil (0.9mm)                                             Round             26        PTH        0.00inch (0.00mm)
+T5      39mil (1mm)                                               Round             12        PTH        0.00inch (0.00mm)
+T6      39mil (1mm)                                               Slot              3         PTH        0.00inch (0.00mm)
+T7      40mil (1.016mm)                                           Round             41        PTH        0.00inch (0.00mm)
+T8      43mil (1.1mm)                                             Round             14        PTH        0.00inch (0.00mm)
+T9      60mil (1.52mm)                                            Round             2         PTH        0.00inch (0.00mm)
+T10     145mil (3.683mm)                                          Round             3         PTH        0.00inch (0.00mm)
+T11     43mil (1.1mm)                                             Round             1         NPTH       0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              173
+
+Two holes at same point : 2
+-----------------------
+2625,1485
+3525,1485
+
+Total Processing Time (hh:mm:ss) : 00:00:01

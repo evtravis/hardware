@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [solarInterface.PrjPcb]
+   Generated File[solarInterface.TXT]
+   Generated File[solarInterface.LDP]
+   Generated File[solarInterface.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 2:19:24 PM On 10/30/2023

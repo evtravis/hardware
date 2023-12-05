@@ -1,0 +1,3 @@
+Change Component Designator: OldDesignator=Jm? NewDesignator=Jm2
+Change Component Designator: OldDesignator=Jm? NewDesignator=Jm3
+Added Member To Class: ClassName=solarInterface Member=Component Jm2 SolderJumper

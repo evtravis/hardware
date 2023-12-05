@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=SD_CD Pin=U1-64
+Removed Pin From Net: NetName=SMU_TX1s Pin=U1-68
+Removed Pin From Net: NetName=SMU_RX1s Pin=U1-69
+Change Component Footprint: Designator=P1 Old Footprint=61300611121 New Footprint=61300611121
+Change Component Footprint: Designator=P2 Old Footprint=61300811121 New Footprint=61300811121
+Added Pin To Net: NetName=SMU_TX1s Pin=U1-63
+Added Pin To Net: NetName=SMU_RX1s Pin=U1-64
+Added Pin To Net: NetName=SD_CD Pin=U1-77

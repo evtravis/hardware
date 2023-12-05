@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=AC_PWR Pin=U1-18
+Added Pin To Net: NetName=AC_PWR Pin=U1-26
+Added Member To Class: ClassName=processingModule Member=Component J9 B4B-XH-A(LF)(SN)
+Added Member To Class: ClassName=processingModule Member=Component J13 B4B-XH-A(LF)(SN)

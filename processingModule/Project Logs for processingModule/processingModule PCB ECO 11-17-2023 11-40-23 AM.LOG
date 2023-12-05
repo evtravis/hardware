@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=5V Pin=ESP1-15
+Removed Pin From Net: NetName=RTN Pin=ESP1-16
+Removed Pin From Net: NetName=RTN Pin=ESP1-21
+Removed Pin From Net: NetName=RTN Pin=ESP1-31
+Removed Pin From Net: NetName=RTN Pin=ESP1-32
+Removed Pin From Net: NetName=ESP_RXs2 Pin=ESP1-36
+Removed Pin From Net: NetName=ESP_TXs2 Pin=ESP1-37
+Removed Pin From Net: NetName=RTN Pin=ESP1-38
+Removed Pin From Net: NetName=RTN Pin=ESP1-
+Added Component: Designator=ESP32 HiLetgo(eecs300esp32-Footprint-1)
+Added Pin To Net: NetName=5V Pin=ESP32 HiLetgo-15
+Added Pin To Net: NetName=RTN Pin=ESP32 HiLetgo-16
+Added Pin To Net: NetName=RTN Pin=ESP32 HiLetgo-19
+Added Pin To Net: NetName=RTN Pin=ESP32 HiLetgo-29
+Added Pin To Net: NetName=RTN Pin=ESP32 HiLetgo-30
+Added Pin To Net: NetName=ESP_RXs2 Pin=ESP32 HiLetgo-34
+Added Pin To Net: NetName=ESP_TXs2 Pin=ESP32 HiLetgo-35
+Added Pin To Net: NetName=RTN Pin=ESP32 HiLetgo-36
+Added Member To Class: ClassName=processingModule Member=Component ESP32 HiLetgo eecs300esp32

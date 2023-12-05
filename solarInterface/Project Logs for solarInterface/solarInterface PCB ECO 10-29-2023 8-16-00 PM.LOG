@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=SELEC_G2A Pin=J1-4
+Removed Pin From Net: NetName=SELEC_G2B Pin=J1-5
+Removed Pin From Net: NetName=SELEC_G1 Pin=J1-6
+Added Pin To Net: NetName=SELEC_G1 Pin=J1-4
+Added Pin To Net: NetName=SELEC_G2A Pin=J1-5
+Added Pin To Net: NetName=SELEC_G2B Pin=J1-6

@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=5V Pin=ESP1-15
+Removed Pin From Net: NetName=RTN Pin=ESP1-16
+Removed Pin From Net: NetName=RTN Pin=ESP1-21
+Removed Pin From Net: NetName=RTN Pin=ESP1-31
+Removed Pin From Net: NetName=RTN Pin=ESP1-32
+Removed Pin From Net: NetName=ESP_RXs2 Pin=ESP1-36
+Removed Pin From Net: NetName=ESP_TXs2 Pin=ESP1-37
+Removed Pin From Net: NetName=RTN Pin=ESP1-38
+Removed Pin From Net: NetName=RTN Pin=ESP1-
+Added Room: Name=processingModule

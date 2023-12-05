@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\evanc\Documents\EECS473\EECS473-DAM\processingModule.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=processingmodule-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=processingmodule-slotholes.txt|DrillLayers=gtl,gbl

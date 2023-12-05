@@ -1,0 +1,39 @@
+Removed Pin From Net: NetName=5V Pin=D*1-AN
+Removed Pin From Net: NetName=5V Pin=D*2-AN
+Removed Pin From Net: NetName=5V Pin=D*3-AN
+Removed Pin From Net: NetName=5V Pin=D*4-AN
+Removed Pin From Net: NetName=5V Pin=D*5-AN
+Removed Pin From Net: NetName=cell_4 Pin=R6-1
+Removed Pin From Net: NetName=cell_ref Pin=R11-1
+Removed Pin From Net: NetName=cell_1 Pin=R17-1
+Removed Pin From Net: NetName=cell_3 Pin=R18-1
+Added Pin To Net: NetName=5V Pin=D*1-CAT
+Added Pin To Net: NetName=5V Pin=D*2-CAT
+Added Pin To Net: NetName=5V Pin=D*3-CAT
+Added Pin To Net: NetName=5V Pin=D*4-CAT
+Added Pin To Net: NetName=5V Pin=D*5-CAT
+Added Pin To Net: NetName=cell_ref Pin=R6-1
+Added Pin To Net: NetName=cell_4 Pin=R11-1
+Added Pin To Net: NetName=cell_3 Pin=R17-1
+Added Pin To Net: NetName=cell_1 Pin=R18-1
+Added Pin To Net: NetName=NetD*1_AN Pin=D*1-AN
+Added Pin To Net: NetName=NetD*1_AN Pin=K1-12
+Added Pin To Net: NetName=NetD*1_AN Pin=R4-2
+Added Net: Name=NetD*1_AN
+Added Pin To Net: NetName=NetD*2_AN Pin=D*2-AN
+Added Pin To Net: NetName=NetD*2_AN Pin=K2-12
+Added Pin To Net: NetName=NetD*2_AN Pin=R5-2
+Added Net: Name=NetD*2_AN
+Added Pin To Net: NetName=NetD*3_AN Pin=D*3-AN
+Added Pin To Net: NetName=NetD*3_AN Pin=K3-12
+Added Pin To Net: NetName=NetD*3_AN Pin=R10-2
+Added Net: Name=NetD*3_AN
+Added Pin To Net: NetName=NetD*4_AN Pin=D*4-AN
+Added Pin To Net: NetName=NetD*4_AN Pin=K4-12
+Added Pin To Net: NetName=NetD*4_AN Pin=R15-2
+Added Net: Name=NetD*4_AN
+Added Pin To Net: NetName=NetD*5_AN Pin=D*5-AN
+Added Pin To Net: NetName=NetD*5_AN Pin=K5-12
+Added Pin To Net: NetName=NetD*5_AN Pin=R16-2
+Added Net: Name=NetD*5_AN
+Added Room: Name=solarInterface

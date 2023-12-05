@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=SD_CD Pin=U1-77
+Change Component Designator: OldDesignator=2 NewDesignator=BT1
+Added Pin To Net: NetName=SD_CD Pin=U1-81
+Added Member To Class: ClassName=processingModule Member=Component C13 C0603X104K5RACTU
+Added Member To Class: ClassName=processingModule Member=Component C14 C0603X104K5RACTU
+Added Member To Class: ClassName=processingModule Member=Component C16 C0603X104K5RACTU

@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=SELEC_C Pin=J1-4
+Removed Pin From Net: NetName=SELEC_A Pin=J1-6
+Removed Pin From Net: NetName=cell_ref Pin=R3-1
+Removed Pin From Net: NetName=cell_1 Pin=R6-1
+Removed Pin From Net: NetName=cell_2 Pin=R11-1
+Removed Pin From Net: NetName=cell_4 Pin=R18-1
+Change Component Designator: OldDesignator=   NewDesignator=P3
+Added Pin To Net: NetName=SELEC_A Pin=J1-4
+Added Pin To Net: NetName=SELEC_C Pin=J1-6
+Added Pin To Net: NetName=cell_2 Pin=R3-1
+Added Pin To Net: NetName=cell_ref Pin=R6-1
+Added Pin To Net: NetName=cell_4 Pin=R11-1
+Added Pin To Net: NetName=cell_1 Pin=R18-1
+Added Member To Class: ClassName=solarInterface Member=Component J1 B6B-XH-AM(LF)(SN)
+Added Member To Class: ClassName=solarInterface Member=Component J2 B4B-XH-A(LF)(SN)
+Added Member To Class: ClassName=solarInterface Member=Component Jm3 SolderJumper
